@@ -1,0 +1,15 @@
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\bin\Debug\net8.0\test.infraestructure.deps.json
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\bin\Debug\net8.0\test.infraestructure.dll
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\bin\Debug\net8.0\test.infraestructure.pdb
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\bin\Debug\net8.0\test.domain.dll
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\bin\Debug\net8.0\test.domain.pdb
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.csproj.AssemblyReference.cache
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.inf.7AB6BEC9.Up2Date
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.dll
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\refint\test.infraestructure.dll
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\test.infraestructure.pdb
+C:\Users\jcarl\source\repos\Visual C#\Prueba_de_Desarrollo\test.infraestructure\obj\Debug\net8.0\ref\test.infraestructure.dll
